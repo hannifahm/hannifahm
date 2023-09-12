@@ -8,7 +8,7 @@
 - 📚 I'm an avid reader; I could spend hours reading a good fantasy or mystery novel
 - 🎾 Big tennis fan (but can't play it for the life of me 😅)
 - 👀 I’m interested in learning languages, particularly Arabic and Italian
-- ⚡ Fun Fact: My name means 'true believer' in Arabic
+- ⚡ Fun Fact: My name حنيفة means 'true believer' in Arabic
 
 
 <h2 align="left"> 🌱 I’m currently learning </h2>
