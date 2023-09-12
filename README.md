@@ -1,4 +1,4 @@
-
+<img src="https://github.com/hannifahm/hannifahm/blob/main/readme%20banner.gif" alt="README banner">
 
 <h3 align="center"> 👋 I'm Hannifa, an aspiring data analyst trying to make sense of the world through the lens of numbers </h3>
 
